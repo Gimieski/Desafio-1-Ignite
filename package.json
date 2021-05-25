@@ -1,0 +1,19 @@
+{
+  "name": "Desafio-1-Ignite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
